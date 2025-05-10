@@ -1,4 +1,4 @@
-# Suitable_University_Major
+<h1 align="center">Expert System Project</h1>
 Suitable University Major using python and clips
 
 ## Team Names
